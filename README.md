@@ -24,4 +24,5 @@ Segue abaixo **algumas informações que foram obtidas através da análise**:
 
 - Foram identificados filmes de 64 países diferentes exibidos no período registrado na base, porém, a maioria dos filmes são ou brasileiros ou americanos. Somados, Brasil e EUA possuem 1453 filmes exibidos, enquanto os outros 62 países juntos somam 768 filmes;
 - O ano com maior público registrado foi o ano de 2019. Após o início da pandemia em 2020 (que por consequência, fez com que o publico caísse), os números voltaram a aumentar a partir de maio de 2021, e desde então vem subindo ano a ano;
-- Em média, são exibidos 562 filmes diferentes por ano nos cinemas brasileiros.
+- Em média, são exibidos 562 filmes diferentes por ano nos cinemas brasileiros;
+- **Minha mãe é uma peça 3** foi o filme brasileiro mais assistido durante o período registrado, e foi o quinto filme mais assistido entre todos exibidos.
